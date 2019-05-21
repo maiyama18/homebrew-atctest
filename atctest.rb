@@ -6,7 +6,7 @@ class Atctest < Formula
   homepage "https://github.com/mui87/atctest"
   url "https://github.com/mui87/atctest/releases/download/v0.9.2/atctest"
   version "v0.9.2"
-  sha256 "b7b492f25831d1cd4b414dd58a4e7cfde57fcf098f8cc9a880bc001f675282f2"
+  sha256 "74bf09250237587f6da7c1217ad69d0a042f80897459046d1acd0cc407fc8740"
 
   def install
     bin.install "atctest"
